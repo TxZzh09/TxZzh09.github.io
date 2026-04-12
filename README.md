@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A passionate [your role] from [your country]</h3>
+<h1 align="center">Hi 👋, I'm Zhi Hao</h1>
+<h3 align="center">A passionate JC student from Singapore</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on: **[Project Name]**
-- 🌱 I’m currently learning: **[Tech/Skill]**
-- 👯 I’m looking to collaborate on: **[Something]**
-- 💬 Ask me about: **[Topics]**
-- 📫 How to reach me: **your@email.com**
-- ⚡ Fun fact: **Something interesting**
+- 🔭 I’m currently working on: **CTF AND CP**
+- 🌱 I’m currently learning: **CTF**
+- 👯 I’m looking to collaborate on: **idk**
+- 💬 Ask me about: **Anything**
+- 📫 How to reach me: **tan_zhi_hao_4@students.edu.sg**
+- ⚡ Fun fact: **I like to play football**
 
 ---
 
