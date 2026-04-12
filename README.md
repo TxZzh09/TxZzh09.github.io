@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=My%20Profile&fontSize=40" />
+</p>
 <h1 align="center">Hi 👋, I'm Zhi Hao</h1>
 <h3 align="center">A passionate JC student from Singapore</h3>
 
