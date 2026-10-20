@@ -38,7 +38,7 @@
 <p>
   <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
   <a href="https://twitter.com/YOUR_LINK">Twitter</a> •
-  <a href="https://YOUR_WEBSITE.com">Portfolio</a>
+  <a href="https://txzzh09.github.io/portfolio/">Portfolio</a>
 </p>
 
 ---
